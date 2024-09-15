@@ -20,7 +20,7 @@ Welcome to **DigiPic-Classifier**, an all-in-one image recognition and digit cla
 
 - **CIFAR-10 Object Recognition**: [![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://pictoverse.streamlit.app/)
 
-- **MNIST Digit Classifier**: *(Coming Soon)*
+- **MNIST Digit Classifier**: [![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://predictadigit.streamlit.app/)
 
 ## 🖼️ Preview
 
@@ -32,7 +32,8 @@ Welcome to **DigiPic-Classifier**, an all-in-one image recognition and digit cla
 
 
 ### MNIST Digit Classification
-*(Preview will be added soon)*
+![DigiPic-Classifier Screenshot](https://github.com/user-attachments/assets/07b2da72-ab12-4b1e-a34a-eb7ea2a8f7e4)
+![DigiPic-Classifier Screenshot](https://github.com/user-attachments/assets/5bd05631-063f-4a91-8a5c-6c17ea223734)
 
 ---
 
